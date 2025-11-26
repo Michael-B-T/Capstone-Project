@@ -1,5 +1,6 @@
 # Capstone-Project
 -Data Analysis of Depression Trends Based on Synthesized Data
+
 -Predicting Depression Risk from Behavioral Data (Initial EDA + Baseline)
 
 ## Summary
