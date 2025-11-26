@@ -1,6 +1,6 @@
 # Capstone-Project
-Data Analysis of Depression Trends Based on Synthesized Data
-Predicting Depression Risk from Behavioral Data (Initial EDA + Baseline)
+-Data Analysis of Depression Trends Based on Synthesized Data
+-Predicting Depression Risk from Behavioral Data (Initial EDA + Baseline)
 
 ## Summary
 This repository contains an initial exploratory data analysis and baseline modeling pipeline for my capstone project exploring whether behavioral and lifestyle features can predict depression risk. Because real world human datasets with validated PHQ-9 scores were not available for this stage, a **synthetic dataset** mimicking plausible relationships was generated and used.
